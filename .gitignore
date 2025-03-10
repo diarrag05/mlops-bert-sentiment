@@ -1,0 +1,13 @@
+# Ignorer env virtuel
+nom_de_votre_envproject/
+
+# Ignorer checkpoints et résultats du modèle
+results/
+
+# fichiers Python inutiles
+__pycache__/
+*.pyc
+
+# fichiers divers
+.DS_Store
+.vscode/

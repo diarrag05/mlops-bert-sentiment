@@ -1,13 +1,13 @@
 # Pipeline d'Analyse de Sentiment avec BERT
 
-## 📂 Structure du projet :
+# MLOps - Analyse de Sentiment avec BERT
 
-- Concevoir un pipeline de traitement des données efficace pour structurer les avis clients 
+Ce projet implémente un pipeline complet d'analyse de sentiment basé sur **BERT**, permettant de classifier les avis clients en sentiments positifs, neutres ou négatifs.
 
-- Implémenter un modèle de classification des sentiments basé sur BERT 
+## 📌 Fonctionnalités
+- Extraction et prétraitement des données (nettoyage, tokenization)
+- Entraînement d'un modèle BERT avec **Hugging Face Transformers**
+- Inférence pour la prédiction des sentiments
+- Tests unitaires pour garantir la robustesse du pipeline
+- Gestion de version avec **Git & GitHub**
 
-- Développer un système robuste d’inférence pour permettre une analyse en temps réel 
-
-- Mettre en place des tests unitaires et une validation rigoureuse pour garantir la fiabilité du modèle 
-
-- Assurer une collaboration fluide via Git et GitHub pour le suivi et la gestion des contributions 
